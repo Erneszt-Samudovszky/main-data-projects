@@ -1,1 +1,1 @@
-This repository is created to contain more data projects on various topics. It will be updated when a new project is finished.
+This repository is created to contain more data projects on various topics. It will be updated when a new project is finished. Various tools and software will be used, this information can be found in the project-corresponding README file.
