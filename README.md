@@ -1,1 +1,1 @@
-This repository is created to contain more data projects on various topics. It will be updated when a new project is finished. Various types of tools and software will be used, this information can be found in the project folder name.
+This repository is created to contain personal data projects on various topics. Various types of tools and software are used, this information can be found in the project folder name.
